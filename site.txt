@@ -1,0 +1,13 @@
+Host FTP	ftp.tomatejumper.16mb.com 
+IP do FTP	31.220.16.132
+Porta FTP	21
+Nome de usuário FTP	u652014630
+Senha FTP	
+••••••••••
+Pasta para onde os arquivos serão enviados	public_html
+Esqueceu sua senha de FTP?	Mudar senha de conta 
+Clientes FTP recomendados.	SmartFTP  ou FileZill
+
+
+
+tomatejumper.16mb.com\tomatojumper
